@@ -1,0 +1,7 @@
+C:\Users\Jordan Haywood\source\repos\CardGameApp\CardGameUI\bin\Debug\CardGameUI.exe.config
+C:\Users\Jordan Haywood\source\repos\CardGameApp\CardGameUI\bin\Debug\CardGameUI.exe
+C:\Users\Jordan Haywood\source\repos\CardGameApp\CardGameUI\bin\Debug\CardGameUI.pdb
+C:\Users\Jordan Haywood\source\repos\CardGameApp\CardGameUI\obj\Debug\CardGame.csprojAssemblyReference.cache
+C:\Users\Jordan Haywood\source\repos\CardGameApp\CardGameUI\obj\Debug\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Haywood\source\repos\CardGameApp\CardGameUI\obj\Debug\CardGameUI.exe
+C:\Users\Jordan Haywood\source\repos\CardGameApp\CardGameUI\obj\Debug\CardGameUI.pdb
